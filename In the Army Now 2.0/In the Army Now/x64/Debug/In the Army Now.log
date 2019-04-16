@@ -1,0 +1,23 @@
+﻿  Source.cpp
+c:\users\raa799\desktop\in the army now 2.0\in the army now\inthearmynow.h(69): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\raa799\desktop\in the army now 2.0\in the army now\inthearmynow.h(70): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\raa799\desktop\in the army now 2.0\in the army now\inthearmynow.h(143): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\raa799\desktop\in the army now 2.0\in the army now\inthearmynow.h(144): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\raa799\desktop\in the army now 2.0\in the army now\inthearmynow.h(200): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  In the Army Now.vcxproj -> C:\Users\raa799\Desktop\In the Army Now 2.0\x64\Debug\In the Army Now.exe
