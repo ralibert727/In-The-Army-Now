@@ -100,22 +100,22 @@ int main() {
 			cout << musicChoice << endl;
 			switch (musicChoice) {
 			case 0:
-				music.openFromFile("ytmp3free.cc_battle-of-iwo-jima-youtubemp3free.org.mp3");
+				music.openFromFile("ytmp3free.cc_battle-of-iwo-jima-youtubemp3free.org.ogg");
 				music.setVolume(35);
 				music.play();
 				break;
 			case 1:
-				music.openFromFile("ytmp3free.cc_glorifica-youtubemp3free.org.mp3");
+				music.openFromFile("ytmp3free.cc_glorifica-youtubemp3free.org.ogg");
 				music.setVolume(35);
 				music.play();
 				break;
 			case 2:
-				music.openFromFile("ytmp3free.cc_operation-whiteout-loading-screen-music-battlefield-4-youtubemp3free.org.mp3");
+				music.openFromFile("ytmp3free.cc_operation-whiteout-loading-screen-music-battlefield-4-youtubemp3free.org.ogg");
 				music.setVolume(35);
 				music.play();
 				break;
 			case 3:
-				music.openFromFile("ytmp3free.cc_battlefield-3-operation-riverside-loading-screen-youtubemp3free.org.mp3");
+				music.openFromFile("ytmp3free.cc_battlefield-3-operation-riverside-loading-screen-youtubemp3free.org.ogg");
 				music.setVolume(35);
 				music.play();
 				break;
